@@ -3,7 +3,7 @@ public class Operadores {
         int a, b;
         a = 5;
         b = 6;
-              
+
         /* EXEMPLO DE CONDICIONAL UTILIZANDO UMA ESTRUTURA IF/ELSE
         if(a==b)
            resultado = "verdadeiro";
@@ -15,5 +15,6 @@ public class Operadores {
         String resultado = (a==b) ? "verdadeiro" : "false";
         
         System.out.println(resultado);
+
     }
 }
